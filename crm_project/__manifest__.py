@@ -9,8 +9,9 @@
     "complexity": "easy",
     "data": ["wizard/crm_lead_convert2task_views.xml", "views/crm_lead_views.xml"],
     "author": "Odoo S.A., Odoo Community Association (OCA), Tecnativa",
+    "website": "https://github.com/OCA/crm",
     "depends": ["crm", "project"],
-    "version": "13.0.1.0.1",
+    "version": "13.0.1.0.2",
     "license": "LGPL-3",
     "installable": True,
 }
