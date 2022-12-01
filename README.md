@@ -25,12 +25,14 @@ addon | version | maintainers | summary
 [crm_claim_type](crm_claim_type/) | 15.0.1.0.0 |  | Claim types for CRM
 [crm_industry](crm_industry/) | 15.0.1.0.0 |  | Link leads/opportunities to industries
 [crm_lead_code](crm_lead_code/) | 15.0.1.0.0 |  | Sequential Code for Leads / Opportunities
-[crm_lead_firstname](crm_lead_firstname/) | 15.0.1.0.0 |  | Specify split names for contacts in leads
+[crm_lead_firstname](crm_lead_firstname/) | 15.0.1.0.1 |  | Specify split names for contacts in leads
 [crm_location](crm_location/) | 15.0.1.0.2 |  | CRM location
 [crm_multicompany_reporting_currency](crm_multicompany_reporting_currency/) | 15.0.1.0.1 |  | Adds Amount in multicompany reporting currency to CRM Lead
 [crm_phonecall](crm_phonecall/) | 15.0.1.0.2 |  | CRM Phone Calls
 [crm_phonecall_planner](crm_phonecall_planner/) | 15.0.1.0.0 |  | Schedule phone calls according to some criteria
 [crm_project](crm_project/) | 15.0.1.0.2 |  | Create Tasks from Leads/Opportunities
+[crm_salesperson_planner](crm_salesperson_planner/) | 15.0.1.0.0 |  | Crm Salesperson Planner
+[crm_salesperson_planner_sale](crm_salesperson_planner_sale/) | 15.0.1.0.0 |  | Crm Salesperson Planner Sale
 [crm_security_group](crm_security_group/) | 15.0.1.1.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Add new group in Sales to show only CRM
 [crm_stage_probability](crm_stage_probability/) | 15.0.1.0.0 |  | Define fixed probability on the stages
 
