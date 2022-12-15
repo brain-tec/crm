@@ -3,13 +3,13 @@
 
 {
     'name': 'Lead Line Product',
-    'version': '12.0.1.0.0',
+    'version': '12.0.1.0.1',
     'category': 'Customer Relationship Management',
     'license': 'LGPL-3',
     'summary': 'Adds a lead line in the lead/opportunity model '
                'in odoo',
     'author': "Eficent, Odoo Community Association (OCA)",
-    'website': 'http://www.github.com/OCA/crm',
+    'website': 'https://github.com/OCA/crm',
     'depends': ['crm', 'product'],
     'data': [
         'security/ir.model.access.csv',

@@ -5,13 +5,14 @@
 
 {
     'name': 'Claims Management',
-    'version': '12.0.1.1.1',
+    'version': '12.0.1.1.2',
     'category': 'Customer Relationship Management',
     'author': 'Odoo S.A., '
               'Tecnativa, '
               'Odoo Community Association (OCA)',
     'license': 'AGPL-3',
     'summary': "Track your customers/vendors claims and grievances.",
+    "website": "https://github.com/OCA/crm",
     'depends': [
         'crm',
         'mail',
