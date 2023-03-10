@@ -10,6 +10,8 @@ setuptools.setup(
     install_requires=[
         'odoo-addon-crm_claim>=16.0dev,<16.1dev',
         'odoo-addon-crm_lead_code>=16.0dev,<16.1dev',
+        'odoo-addon-crm_lead_firstname>=16.0dev,<16.1dev',
+        'odoo-addon-crm_lead_search_archive>=16.0dev,<16.1dev',
         'odoo-addon-crm_location>=16.0dev,<16.1dev',
     ],
     classifiers=[
