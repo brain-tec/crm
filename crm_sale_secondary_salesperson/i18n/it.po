@@ -1,6 +1,6 @@
 # Translation of Odoo Server.
 # This file contains the translation of the following modules:
-#	* crm_claim_code
+#	* crm_sale_secondary_salesperson
 #
 msgid ""
 msgstr ""
@@ -16,17 +16,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.17\n"
 
-#. module: crm_claim_code
-#: model:ir.model,name:crm_claim_code.model_crm_claim
-msgid "Claim"
-msgstr "Reclamo"
-
-#. module: crm_claim_code
-#: model:ir.model.fields,field_description:crm_claim_code.field_crm_claim__code
-msgid "Claim Number"
-msgstr "Numero reclamo"
-
-#. module: crm_claim_code
-#: sql_constraint:crm.claim:0
-msgid "The code must be unique!"
-msgstr "Il codice deve essere univoco!"
+#. module: crm_sale_secondary_salesperson
+#: model:ir.model,name:crm_sale_secondary_salesperson.model_sale_order
+msgid "Sale Order"
+msgstr "Ordine di vendita"
