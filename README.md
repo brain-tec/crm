@@ -30,6 +30,7 @@ addon | version | maintainers | summary
 [crm_lead_to_task](crm_lead_to_task/) | 17.0.1.1.0 |  | Create Tasks from Leads/Opportunities
 [crm_lead_vat](crm_lead_vat/) | 17.0.1.0.1 | [![EmilioPascual](https://github.com/EmilioPascual.png?size=30px)](https://github.com/EmilioPascual) | Add VAT field to leads
 [crm_location](crm_location/) | 17.0.1.0.0 |  | CRM location
+[crm_partner_assign](crm_partner_assign/) | 17.0.1.0.0 | [![Shide](https://github.com/Shide.png?size=30px)](https://github.com/Shide) | Assign a Partner to an Opportunity/Lead/Partner to indicate Partnership
 [crm_phonecall](crm_phonecall/) | 17.0.1.0.0 |  | CRM Phone Calls
 [crm_phonecall_summary_predefined](crm_phonecall_summary_predefined/) | 17.0.1.0.0 |  | Allows to choose from a defined summary list
 [crm_salesperson_planner](crm_salesperson_planner/) | 17.0.1.0.1 |  | Crm Salesperson Planner
