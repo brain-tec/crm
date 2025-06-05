@@ -34,10 +34,10 @@ addon | version | maintainers | summary
 [crm_phonecall_planner](crm_phonecall_planner/) | 13.0.1.0.0 |  | Schedule phone calls according to some criteria
 [crm_phonecall_summary_predefined](crm_phonecall_summary_predefined/) | 13.0.1.0.0 |  | Allows to choose from a defined summary list
 [crm_project](crm_project/) | 13.0.1.1.0 |  | Create Tasks from Leads/Opportunities
-[crm_sale_secondary_salesperson](crm_sale_secondary_salesperson/) | 13.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Crm Sale Secondary Salesperson
+[crm_sale_secondary_salesperson](crm_sale_secondary_salesperson/) | 13.0.1.0.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Crm Sale Secondary Salesperson
 [crm_salesperson_planner](crm_salesperson_planner/) | 13.0.1.0.0 |  | Crm Salesperson Planner
-[crm_secondary_salesperson](crm_secondary_salesperson/) | 13.0.1.0.3 | [![marcelsavegnago](https://github.com/marcelsavegnago.png?size=30px)](https://github.com/marcelsavegnago) | CRM Secondary Salesperson
-[crm_security_group](crm_security_group/) | 13.0.1.1.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Add new group in Sales to show only CRM
+[crm_secondary_salesperson](crm_secondary_salesperson/) | 13.0.1.0.3 | <a href='https://github.com/marcelsavegnago'><img src='https://github.com/marcelsavegnago.png' width='32' height='32' style='border-radius:50%;' alt='marcelsavegnago'/></a> | CRM Secondary Salesperson
+[crm_security_group](crm_security_group/) | 13.0.1.1.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Add new group in Sales to show only CRM
 [crm_stage_probability](crm_stage_probability/) | 13.0.1.0.0 |  | Define fixed probability on the stages
 [crm_stage_type](crm_stage_type/) | 13.0.1.0.1 |  | Add type in the lead and opportunity stages
 [marketing_crm_partner](marketing_crm_partner/) | 13.0.1.0.2 |  | Copy tracking fields from leads to partners
