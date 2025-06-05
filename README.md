@@ -29,19 +29,19 @@ addon | version | maintainers | summary
 [crm_lead_firstname](crm_lead_firstname/) | 15.0.1.0.1 |  | Specify split names for contacts in leads
 [crm_lead_vat](crm_lead_vat/) | 15.0.1.1.0 |  | Add VAT field to leads
 [crm_location](crm_location/) | 15.0.1.0.2 |  | CRM location
-[crm_multicompany_reporting_currency](crm_multicompany_reporting_currency/) | 15.0.1.0.3 | [![yankinmax](https://github.com/yankinmax.png?size=30px)](https://github.com/yankinmax) | Adds Amount in multicompany reporting currency to CRM Lead
-[crm_partner_assign](crm_partner_assign/) | 15.0.0.2.0 | [![Shide](https://github.com/Shide.png?size=30px)](https://github.com/Shide) | Assign a Partner to an Opportunity/Lead/Partner to indicate Partnership
+[crm_multicompany_reporting_currency](crm_multicompany_reporting_currency/) | 15.0.1.0.3 | <a href='https://github.com/yankinmax'><img src='https://github.com/yankinmax.png' width='32' height='32' style='border-radius:50%;' alt='yankinmax'/></a> | Adds Amount in multicompany reporting currency to CRM Lead
+[crm_partner_assign](crm_partner_assign/) | 15.0.0.2.0 | <a href='https://github.com/Shide'><img src='https://github.com/Shide.png' width='32' height='32' style='border-radius:50%;' alt='Shide'/></a> | Assign a Partner to an Opportunity/Lead/Partner to indicate Partnership
 [crm_phonecall](crm_phonecall/) | 15.0.1.1.2 |  | CRM Phone Calls
 [crm_phonecall_planner](crm_phonecall_planner/) | 15.0.1.0.2 |  | Schedule phone calls according to some criteria
 [crm_phonecall_summary_predefined](crm_phonecall_summary_predefined/) | 15.0.1.0.0 |  | Allows to choose from a defined summary list
 [crm_project](crm_project/) | 15.0.1.0.4 |  | Create Tasks from Leads/Opportunities
-[crm_project_task](crm_project_task/) | 15.0.1.1.1 | [![EmilioPascual](https://github.com/EmilioPascual.png?size=30px)](https://github.com/EmilioPascual) | Create tasks from lead or opportunity
+[crm_project_task](crm_project_task/) | 15.0.1.1.1 | <a href='https://github.com/EmilioPascual'><img src='https://github.com/EmilioPascual.png' width='32' height='32' style='border-radius:50%;' alt='EmilioPascual'/></a> | Create tasks from lead or opportunity
 [crm_salesperson_planner](crm_salesperson_planner/) | 15.0.3.0.1 |  | Crm Salesperson Planner
 [crm_salesperson_planner_sale](crm_salesperson_planner_sale/) | 15.0.1.0.0 |  | Crm Salesperson Planner Sale
-[crm_security_group](crm_security_group/) | 15.0.1.2.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Add new group in Sales to show only CRM
+[crm_security_group](crm_security_group/) | 15.0.1.2.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Add new group in Sales to show only CRM
 [crm_stage_probability](crm_stage_probability/) | 15.0.1.0.0 |  | Define fixed probability on the stages
-[crm_won_reason](crm_won_reason/) | 15.0.1.0.0 | [![ajaniszewska-dev](https://github.com/ajaniszewska-dev.png?size=30px)](https://github.com/ajaniszewska-dev) | CRM won reason
-[crm_won_restrict_per_stage](crm_won_restrict_per_stage/) | 15.0.1.0.0 | [![carolina-fernandez](https://github.com/carolina-fernandez.png?size=30px)](https://github.com/carolina-fernandez) | CRM Won Restrict Per Stage
+[crm_won_reason](crm_won_reason/) | 15.0.1.0.0 | <a href='https://github.com/ajaniszewska-dev'><img src='https://github.com/ajaniszewska-dev.png' width='32' height='32' style='border-radius:50%;' alt='ajaniszewska-dev'/></a> | CRM won reason
+[crm_won_restrict_per_stage](crm_won_restrict_per_stage/) | 15.0.1.0.0 | <a href='https://github.com/carolina-fernandez'><img src='https://github.com/carolina-fernandez.png' width='32' height='32' style='border-radius:50%;' alt='carolina-fernandez'/></a> | CRM Won Restrict Per Stage
 [marketing_crm_partner](marketing_crm_partner/) | 15.0.1.0.0 |  | Copy tracking fields from leads to partners
 
 [//]: # (end addons)
