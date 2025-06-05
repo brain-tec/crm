@@ -39,8 +39,8 @@ addon | version | maintainers | summary
 [crm_phonecall_planner](crm_phonecall_planner/) | 12.0.1.0.1 |  | Schedule phone calls according to some criteria
 [crm_phonecall_summary_predefined](crm_phonecall_summary_predefined/) | 12.0.1.0.0 |  | Allows to choose from a defined summary list
 [crm_sale_marketing](crm_sale_marketing/) | 12.0.1.0.0 |  | Marketing Details of Sales
-[crm_sale_secondary_salesperson](crm_sale_secondary_salesperson/) | 12.0.1.0.1 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Crm Sale Secondary Salesperson
-[crm_secondary_salesperson](crm_secondary_salesperson/) | 12.0.1.0.2 | [![marcelsavegnago](https://github.com/marcelsavegnago.png?size=30px)](https://github.com/marcelsavegnago) | CRM Secondary Salesperson
+[crm_sale_secondary_salesperson](crm_sale_secondary_salesperson/) | 12.0.1.0.1 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Crm Sale Secondary Salesperson
+[crm_secondary_salesperson](crm_secondary_salesperson/) | 12.0.1.0.2 | <a href='https://github.com/marcelsavegnago'><img src='https://github.com/marcelsavegnago.png' width='32' height='32' style='border-radius:50%;' alt='marcelsavegnago'/></a> | CRM Secondary Salesperson
 [crm_stage_type](crm_stage_type/) | 12.0.1.1.1 |  | Add type in the lead and opportunity stages
 [crm_team_parent](crm_team_parent/) | 12.0.1.0.1 |  | Add a parent field on sales teams.
 [marketing_crm_partner](marketing_crm_partner/) | 12.0.1.0.1 |  | Copy tracking fields from leads to partners
