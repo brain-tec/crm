@@ -21,6 +21,7 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
+[crm_industry](crm_industry/) | 19.0.1.0.0 |  | Link leads/opportunities to industries
 [crm_lead_vat](crm_lead_vat/) | 19.0.1.0.0 | <a href='https://github.com/EmilioPascual'><img src='https://github.com/EmilioPascual.png' width='32' height='32' style='border-radius:50%;' alt='EmilioPascual'/></a> | Add VAT field to leads
 
 [//]: # (end addons)
