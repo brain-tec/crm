@@ -22,7 +22,10 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [crm_industry](crm_industry/) | 19.0.1.0.0 |  | Link leads/opportunities to industries
+[crm_lead_to_task](crm_lead_to_task/) | 19.0.1.0.0 |  | Create Tasks from Leads/Opportunities
 [crm_lead_vat](crm_lead_vat/) | 19.0.1.0.0 | <a href='https://github.com/EmilioPascual'><img src='https://github.com/EmilioPascual.png' width='32' height='32' style='border-radius:50%;' alt='EmilioPascual'/></a> | Add VAT field to leads
+[crm_won_restrict_per_stage](crm_won_restrict_per_stage/) | 19.0.1.0.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | CRM Won Restrict Per Stage
+[marketing_crm_partner](marketing_crm_partner/) | 19.0.1.0.0 |  | Copy tracking fields from leads to partners
 
 [//]: # (end addons)
 
