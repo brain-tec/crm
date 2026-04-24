@@ -29,6 +29,7 @@ addon | version | maintainers | summary
 [crm_stage_probability](crm_stage_probability/) | 19.0.1.0.0 |  | Define fixed probability on the stages
 [crm_won_restrict_per_stage](crm_won_restrict_per_stage/) | 19.0.1.0.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | CRM Won Restrict Per Stage
 [marketing_crm_partner](marketing_crm_partner/) | 19.0.1.0.0 |  | Copy tracking fields from leads to partners
+[srm](srm/) | 19.0.1.0.0 |  | Use CRM model for suppliers
 
 [//]: # (end addons)
 
