@@ -22,6 +22,7 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [crm_claim](crm_claim/) | 19.0.1.0.0 |  | Track your customers/vendors claims and grievances.
+[crm_claim_code](crm_claim_code/) | 19.0.1.0.0 |  | Sequential Code for Claims
 [crm_industry](crm_industry/) | 19.0.1.0.0 |  | Link leads/opportunities to industries
 [crm_lead_code](crm_lead_code/) | 19.0.1.0.0 |  | Sequential Code for Leads / Opportunities
 [crm_lead_to_task](crm_lead_to_task/) | 19.0.1.0.0 |  | Create Tasks from Leads/Opportunities
