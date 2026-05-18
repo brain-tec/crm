@@ -27,6 +27,7 @@ addon | version | maintainers | summary
 [crm_lead_code](crm_lead_code/) | 19.0.1.0.0 |  | Sequential Code for Leads / Opportunities
 [crm_lead_to_task](crm_lead_to_task/) | 19.0.1.0.0 |  | Create Tasks from Leads/Opportunities
 [crm_lead_vat](crm_lead_vat/) | 19.0.1.0.0 | <a href='https://github.com/EmilioPascual'><img src='https://github.com/EmilioPascual.png' width='32' height='32' style='border-radius:50%;' alt='EmilioPascual'/></a> | Add VAT field to leads
+[crm_location](crm_location/) | 19.0.1.0.0 |  | CRM location
 [crm_partner_assign](crm_partner_assign/) | 19.0.1.0.0 | <a href='https://github.com/Shide'><img src='https://github.com/Shide.png' width='32' height='32' style='border-radius:50%;' alt='Shide'/></a> | Assign a Partner to an Opportunity/Lead/Partner to indicate Partnership
 [crm_stage_probability](crm_stage_probability/) | 19.0.1.0.0 |  | Define fixed probability on the stages
 [crm_won_restrict_per_stage](crm_won_restrict_per_stage/) | 19.0.1.0.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | CRM Won Restrict Per Stage
